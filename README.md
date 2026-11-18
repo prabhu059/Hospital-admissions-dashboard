@@ -39,6 +39,7 @@ by month, top doctors, average stay by condition, insurance share).
 - `hospital_db_setup.sql` – database setup, cleaning, tables, views
 - `Hospital_Dashboard.pbix` – Power BI report
 - `dashboard.png` – dashboard screenshot
+- `healthcare_dataset.csv` - source dataset (synthetic)
 
 ## Tools
 SQL Server, SSMS, Power BI, DAX
